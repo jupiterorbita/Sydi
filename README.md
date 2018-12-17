@@ -13,7 +13,7 @@
   <img width="670" src="./preview/sydi-iphone-screens.png"> &nbsp; &nbsp;
 </p>
 
-Sydi is free on the App Store!
+[Sydi is free on the App Store!](https://itunes.apple.com/US/app/id1418440831)
 
 Category | Health & Fitness
 --------: | :---------
