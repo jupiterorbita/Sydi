@@ -24,4 +24,4 @@ Age Rating | 4+
 Copyright | © 2018 Chris and John
 Price | Free
 
-v1.0
+v1.0.0
